@@ -14,9 +14,7 @@ If that does not convince you, here are some other reason that might make you bu
 * You will be able to see how you evolve.
 * Who do you trust more? A person who *says* they have created something or a person who *shows* what they have created?
 
-Here is a preview of the website.
 
-![Preview](preview.gif)
 
 ## Editing / Personalisation
 
